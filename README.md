@@ -18,7 +18,7 @@ for example, two users like Utsav and happy. These two students enter the same r
 
 ![AfterJoinUser](https://user-images.githubusercontent.com/80502799/215257966-1b13aab0-23dd-40c5-8d65-ad67963df1c9.png)
 
-#### Chatting between some different users but same room.
+#### Chatting between some different users but same room
 ![ChatPage](https://user-images.githubusercontent.com/80502799/215257972-2e4b589e-4436-4026-9a68-6629ad65d496.png)
 
 #### When the User is Left Then Shows a Message to other Users Like "User is Left This Room"
